@@ -35,3 +35,35 @@ For the type inference, please refer to `TypeInfer\adobe\README.pdf` for type in
 For the fuzzer , please refer to `Fuzzer\README.pdf`.
 
 For the coverage collecting, please refer to `Coverage\README.pdf`.
+
+
+
+## Publications
+
+```
+TypeOracle: Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers
+
+@inproceedings{DBLP:conf/icse/GuoWYLSZHZ23,
+  author       = {Suyue Guo and
+                  Xinyu Wan and
+                  Wei You and
+                  Bin Liang and
+                  Wenchang Shi and
+                  Yiwei Zhang and
+                  Jianjun Huang and
+                  Jian Zhang},
+  title        = {Operand-Variation-Oriented Differential Analysis for Fuzzing Binding
+                  Calls in {PDF} Readers},
+  booktitle    = {45th {IEEE/ACM} International Conference on Software Engineering,
+                  {ICSE} 2023, Melbourne, Australia, May 14-20, 2023},
+  pages        = {95--107},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICSE48619.2023.00020},
+  doi          = {10.1109/ICSE48619.2023.00020},
+  timestamp    = {Thu, 03 Aug 2023 17:05:32 +0200},
+  biburl       = {https://dblp.org/rec/conf/icse/GuoWYLSZHZ23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
